@@ -1,5 +1,7 @@
 # ARKit-Drawing
 
+This app was developed by following instructions from App Development with Swift by Apple, 2019
+
 This is a 3D drawing application that employs:
 
 * Multiple MVCs
